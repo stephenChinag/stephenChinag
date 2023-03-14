@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **stephenchinag@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HlZ2nxjUgK7yel8yUhER2kcWnsFg3Z3R/view?usp=sharing](https://drive.google.com/file/d/1HlZ2nxjUgK7yel8yUhER2kcWnsFg3Z3R/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
