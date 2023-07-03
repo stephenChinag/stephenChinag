@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stpehen Chinagorom</h1>
+<h1 align="center">Hi 👋, I'm Stpehen Owoamanam</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" width="400px" src="https://tenor.com/view/scaler-create-impact-coding-designer-developer-gif-24991519"/>
 
