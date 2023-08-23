@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephen Owoamanam</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
-<img src= "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80" alt ="coding">
+<img src= "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80" alt ="coding" height="50%"
+  width ="50%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephenchinag&label=Profile%20views&color=0e75b6&style=flat" alt="stephenchinag" /> </p>
 
