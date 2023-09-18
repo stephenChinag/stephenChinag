@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react , Nodejs , C# ,Scss**
 
-- 📫 How to reach me **stephenching@gmail.com**
+- 📫 How to reach me **stephenchinag@gmail.com**
 
 - ⚡ Fun fact **I am art**
 
