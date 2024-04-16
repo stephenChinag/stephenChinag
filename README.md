@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen Owoamanam</h1>
-<h3 align="center">A passionate Software Engineer from Nigeria</h3>
+<h2 align="center">A passionate Software Engineer</h2>
 <img src= "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80" alt ="coding" height="50%"
   width ="50%">
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://stepheowoamanam.web.app/](https://stepheowoamanam.web.app/)
 
-- 💬 Ask me about **react , Nodejs , C# ,Scss**
+- 💬 Ask me about **JavaSceipt, React , Nodejs , C# ,Scss**
 
 - 📫 How to reach me **stephenchinag@gmail.com**
 
