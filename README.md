@@ -31,5 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephenchinag&" alt="stephenchinag" /></p>
 
-## watch Snake eating 
-![snake gif](https://github.com/stephenChinag/stephenChinag/blob/output/github-contribution-grid-snake.svg)
+
