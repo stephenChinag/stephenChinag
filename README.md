@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://stepheowoamanam.web.app/](https://stepheowoamanam.web.app/)
 
-- 💬 Ask me about **JavaSceipt, React , Nodejs , C# ,Scss**
+- 💬 Ask me about **JavaSceipt, React, Nextjs, Nodejs, Scss**
 
 - 📫 How to reach me **stephenchinag@gmail.com**
 
